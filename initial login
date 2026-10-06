@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mr. First Web Page</title>
+</head>
+
+<body>
+
+    <h1>Welcome to My World</h1>
+
+    <p>
+        Hello!!!!
+    </p>
+
+    <h2>About HTML</h2>
+    <p>
+        HTML stands for HyperText Markup Language.
+        It is used to create the structure of web pages.
+    </p>
+
+    <h3>HTML Headings</h3>
+    <p>HTML provides six levels of headings:</p>
+
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+
+    <h2>My Daily Routine</h2>
+
+    <ol>
+        <li>Wake up</li>
+        <li>Have breakfast</li>
+        <li>Go to college</li>
+        <li>Study HTML</li>
+        <li>Go to sleep</li>
+    </ol>
+
+    <h2>Things i Like</h2>
+
+    <ul>
+        <li>Football</li>
+        <li>Learning new skill</li>
+        <li>Surfing through internet</li>
+        <li>Startups</li>
+    </ul>
+
+    <p>
+        Thank you for visiting my webpage!
+    </p>
+
+</body>
+</html>
